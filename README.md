@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my-studyNotion
 
 StudyNotion
@@ -19,3 +20,6 @@ Browse and purchase courses as a student.
 View and learn from courses as a student.
 Credits
 This is my creation of studyNotion under the guidance of a learning bootcamp.
+=======
+# StudyTech
+>>>>>>> origin/main
